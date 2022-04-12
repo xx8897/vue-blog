@@ -1,4 +1,6 @@
 # vue-blog
+using simple vue and firebase to build a simple blog
+and build on firebase hosting
 
 ## Project setup
 ```
